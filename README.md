@@ -6,8 +6,8 @@ https://youtu.be/0wi-HhL0f5I
 
 ## Table of Contents
 [Description](#description)   
-[Install](#install)   
-[Usage](#usage)
+[Install](#install)    
+[Usage](#usage)   
 [Contributing](#contributing)   
 [Tests](#tests)   
 [Questions](#questions)   
